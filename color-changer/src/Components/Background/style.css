@@ -1,0 +1,18 @@
+.bg-cont{
+    width: 100vw;
+    height: 100vh;
+    /*Centering*/
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+.color-pick{
+    width: 400px;
+    height: 250px;
+    border: 2px black solid;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
